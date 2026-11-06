@@ -8,7 +8,7 @@ I’m also trying to understand AI and, day by day, I try to use it as effective
 
 I go by many names, sometimes as "DeadSpec1men", other times by "Spec1men. <3" and recently as "S1. <3".... yeh, it's bizarre but it is what it is.
 
-I guess that’s it.... there’s not much to say about me; I don’t usually have much of an online presence. I just watch what’s going on unless someone decides to reach out to me (and sometimes I don’t even reply). If I’m not doing anything here, I’m probably playing video games or just asleep.... unless it’s the weekend.... (O_o)→🍺
+I guess that’s it.... there’s not much to say about me; I don’t usually have much of an online presence. I just watch what’s going on unless someone decides to reach out to me (and sometimes I don’t even reply). If I’m not doing anything here, I’m probably playing video games, listening music or just asleep.... unless it’s the weekend.... (O_o)→🍺
 
 Thanks for stopping by this profile, I guess… there really isn’t anything significant here
 
