@@ -1,6 +1,5 @@
 ## S'up (⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ
 
-<!--
 I guess I'm just another user here.
 
 I try to code simple things and, every now and then, bigger projects just to improve as a developer. I usually experiment with different programming languages just to see what happens (I don’t usually upload repositories… but I should… though, knowing me, I probably won’t).
@@ -14,4 +13,4 @@ Thanks for stopping by this profile, I guess… there really isn’t anything si
 Well.... these are my cats.... and that's it
 
 
--->
+
