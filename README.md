@@ -14,12 +14,23 @@ Thanks for stopping by this profile, I guess… there really isn’t anything si
 
 Well.... these are my cats.... and that's it
 
-![Roy Batty](/ROY.jpeg)
-Roy Batty
-
-![Scatha](/SCA.jpeg)
-Scatha
-
-![Harvest](/HAR.jpeg)
-Harvest
+<table>
+  <tr>
+    <td align="center">
+      <img src="./ROY.jpeg" width="180" height="180" style="object-fit: cover;" />
+      <br />
+      <strong>Roy Batty</strong>
+    </td>
+    <td align="center">
+      <img src="./SCA.jpeg" width="180" height="180" style="object-fit: cover;" />
+      <br />
+      <strong>Scatha</strong>
+    </td>
+    <td align="center">
+      <img src="./HAR.jpeg" width="180" height="180" style="object-fit: cover;" />
+      <br />
+      <strong>Harvest</strong>
+    </td>
+  </tr>
+</table>
 
